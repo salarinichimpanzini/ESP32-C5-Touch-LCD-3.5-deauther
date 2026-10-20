@@ -7,3 +7,6 @@ you can duplicate  no problem but can you create a github and say me to see the 
 USE ARDUINO 
 
 esp32 3.3.12
+
+
+<img width="809" height="976" alt="image" src="https://github.com/user-attachments/assets/89c5b67a-da54-405b-b31c-b8e17a7618f3" />
