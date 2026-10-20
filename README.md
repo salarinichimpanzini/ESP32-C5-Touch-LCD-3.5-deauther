@@ -13,3 +13,4 @@ esp32 3.3.12
 
 
 if you dont wana code use this ia https://z.ai/ but send him good prompts or he gonna give you shit
+THIS IA IS UNCENSORED 
